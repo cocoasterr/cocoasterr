@@ -1,6 +1,6 @@
 ### Hi Everyone!!
 <p align="center">
-  <img src="https://images.app.goo.gl/2vtBJ1HyqHKcC9Si6"/>
+  <img src="https://images.app.goo.gl/KinsApzcUPN7R77D7"/>
 </p>
 
 ### Hi there 👋, I'm Cocoaster  
