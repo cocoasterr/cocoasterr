@@ -1,7 +1,8 @@
-### Hi Everyone!!
+### Hi Everyone!!  
 <p align="center">
-  <img src="https://images.app.goo.gl/KinsApzcUPN7R77D7"/>
+  <img src="https://raw.githubusercontent.com/cocoasterr/cocoasterr/banner.gif" alt="banner" width="100%">
 </p>
+
 
 ### Hi there 👋, I'm Cocoaster  
 🔹 Backend Engineer | Golang | PostgreSQL | GRPC | Odoo  
@@ -25,7 +26,7 @@
 
 ---
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg) -->
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=cocoasterr&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cocoasterr&layout=compact&theme=dark) -->
