@@ -4,10 +4,6 @@
 </p>
 
 ### Hi there 👋, I'm Cocoaster 
-<div style="text-align: right;">
-  <img src="bmochi.gif" alt="mochi" style="width: 90px; height: auto;">
-</div>
-
 🔹 Backend Engineer | Golang | PostgreSQL | GRPC | Odoo  
 🔹 Passionate about building scalable backend systems  
 
@@ -16,6 +12,10 @@
 - API development with Fiber & GRPC
 - Real-time data processing  
 - Performance optimization for PostgreSQL  
+
+<div style="text-align: right;">
+  <img src="bmochi.gif" alt="mochi" style="width: 90px; height: auto;">
+</div>
 
 📫 Reach me at: maulana prastian | ridhompra@gmail.com  
 
