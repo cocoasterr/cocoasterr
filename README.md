@@ -23,7 +23,9 @@
 - **Databases**: PostgreSQL, Redis  
 - **DevOps**: Docker
 
----
+<div style="text-align: right;">
+  <img src="mochi.gif" alt="mochi" style="width: 100px; height: auto;">
+</div>
 
 <!-- ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg) -->
 
