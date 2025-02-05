@@ -5,7 +5,7 @@
 
 ### Hi there 👋, I'm Cocoaster 
 <div style="text-align: right;">
-  <img src="bmochi.gif" alt="mochi" style="width: 700px; height: auto;">
+  <img src="bmochi.gif" alt="mochi" style="width: 70px; height: auto;">
 </div>
 🔹 Backend Engineer | Golang | PostgreSQL | GRPC | Odoo  
 🔹 Passionate about building scalable backend systems  
