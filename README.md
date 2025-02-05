@@ -1,7 +1,7 @@
 ### Hi Everyone!!  
-<div style="width: 800px; height: 250px; overflow: hidden;">
-  <img src="banner.gif" alt="banner" style="width: 1000px; height: auto; margin-top: -50px;">
-</div>
+<p align="center">
+  <img src="banner.gif" alt="banner" style="width: 800px; height: 250px; clip-path: inset(10% 0 10% 0);">
+</p>
 
 ### Hi there 👋, I'm Cocoaster  
 🔹 Backend Engineer | Golang | PostgreSQL | GRPC | Odoo  
