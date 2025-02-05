@@ -4,8 +4,8 @@
 
 📌 **Current Focus**:  
 - Odoo module development & customization  
-- Real-time data processing
-- API development with Fiber & GRPC  
+- API development with Fiber & GRPC
+- Real-time data processing  
 - Performance optimization for PostgreSQL  
 
 📫 Reach me at: maulana prastian | ridhompra@gmail.com  
