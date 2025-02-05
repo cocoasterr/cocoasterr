@@ -1,7 +1,7 @@
 ### Hi Everyone!!  
-<p align="center">
-  <img src="banner.gif" alt="banner" style="width: 800px; height: 250px; object-fit: cover;">
-</p>
+<div style="width: 800px; height: 250px; overflow: hidden;">
+  <img src="banner.gif" alt="banner" style="width: 1000px; height: auto; margin-top: -50px;">
+</div>
 
 ### Hi there 👋, I'm Cocoaster  
 🔹 Backend Engineer | Golang | PostgreSQL | GRPC | Odoo  
