@@ -1,8 +1,7 @@
 ### Hi Everyone!!  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/cocoasterr/cocoasterr/banner.gif" alt="banner" width="100%">
+  <img src="banner.gif" alt="banner" style="width: 800px; height: 250px; clip-path: inset(10% 0 10% 0);">
 </p>
-
 
 ### Hi there 👋, I'm Cocoaster  
 🔹 Backend Engineer | Golang | PostgreSQL | GRPC | Odoo  
@@ -24,7 +23,9 @@
 - **Databases**: PostgreSQL, Redis  
 - **DevOps**: Docker
 
----
+<div style="text-align: right;">
+  <img src="mochi.gif" alt="mochi" style="width: 100px; height: auto;">
+</div>
 
 <!-- ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg) -->
 
