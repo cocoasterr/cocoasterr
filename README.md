@@ -1,6 +1,6 @@
 ### Hi Everyone!!
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="[https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100](https://images.app.goo.gl/2vtBJ1HyqHKcC9Si6)"/>
 </p>
 
 ### Hi there 👋, I'm Cocoaster  
