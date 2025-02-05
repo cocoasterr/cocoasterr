@@ -3,7 +3,10 @@
   <img src="banner.gif" alt="banner" style="width: 800px; height: 250px; clip-path: inset(10% 0 10% 0);">
 </p>
 
-### Hi there 👋, I'm Cocoaster  
+### Hi there 👋, I'm Cocoaster 
+<div style="text-align: right;">
+  <img src="bmochi.gif" alt="mochi" style="width: 700px; height: auto;">
+</div>
 🔹 Backend Engineer | Golang | PostgreSQL | GRPC | Odoo  
 🔹 Passionate about building scalable backend systems  
 
@@ -22,10 +25,6 @@
 - **Frameworks**: Fiber, FastAPI, Odoo  
 - **Databases**: PostgreSQL, Redis  
 - **DevOps**: Docker
-
-<div style="text-align: right;">
-  <img src="bmochi.gif" alt="mochi" style="width: 100px; height: auto;">
-</div>
 
 <!-- ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg) -->
 
