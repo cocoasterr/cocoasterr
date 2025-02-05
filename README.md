@@ -13,12 +13,6 @@
 - Real-time data processing  
 - Performance optimization for PostgreSQL  
 
-<div style="text-align: right;">
-  <img src="bmochi.gif" alt="mochi" style="width: 90px; height: auto;">
-</div>
-
-📫 Reach me at: maulana prastian | ridhompra@gmail.com  
-
 ---
 
 ### 🛠 Tech Stack  
@@ -26,6 +20,14 @@
 - **Frameworks**: Fiber, FastAPI, Odoo  
 - **Databases**: PostgreSQL, Redis  
 - **DevOps**: Docker
+
+---
+
+<div style="text-align: right;">
+  <img src="bmochi.gif" alt="mochi" style="width: 90px; height: auto;">
+</div>
+
+📫 Reach me at: maulana prastian | ridhompra@gmail.com  
 
 <!-- ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg) -->
 
