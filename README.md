@@ -1,6 +1,6 @@
 ### Hi Everyone!!  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/cocoasterr/cocoasterr/banner.gif" alt="banner" width="100%">
+  <img src="banner.gif" alt="banner" width="100%">
 </p>
 
 
