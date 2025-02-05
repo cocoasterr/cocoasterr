@@ -1,3 +1,8 @@
+### Hi Everyone!!
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+
 ### Hi there 👋, I'm Cocoaster  
 🔹 Backend Engineer | Golang | PostgreSQL | GRPC | Odoo  
 🔹 Passionate about building scalable backend systems  
