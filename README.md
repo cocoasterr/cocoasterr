@@ -9,7 +9,8 @@
 
 📌 **Current Focus**:  
 - Odoo module development & customization  
-- API development with Fiber & GRPC
+- API development with any Golang framework Gin, Fiber, Echo, gorilla mux, net/http
+- Sync Microservice GRPC System
 - Real-time data processing  
 - Performance optimization for PostgreSQL  
 
